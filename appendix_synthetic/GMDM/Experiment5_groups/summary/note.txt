@@ -1,0 +1,1 @@
+Summary2 adds one more column about the improvement of incorporating grouping information into the model based on 'prediction.csv'.

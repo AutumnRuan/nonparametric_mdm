@@ -1,0 +1,11 @@
+the true revenue of the test assortment is 1.0763892765198289
+
+the prediction lb with nS = 20 is 0.4465131373927324
+the prediction ub with nS = 20 is 1.6049849451282179
+prediction interval with nS = 20 length is 1.1584718077354854
+feasibility percentage with nS = 20 is 0.72
+
+the prediction lb with nS = 1000 is 0.9424603710607873
+the prediction ub with nS = 1000 is 1.2319093640398222
+prediction interval length with nS = 1000 is 0.2894489929790349
+feasibility percentage with nS = 1000 is 0.96

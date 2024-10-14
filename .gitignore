@@ -1,0 +1,4 @@
+.DS_Store
+*.csv
+!*summary*
+6.2synthetic/hev_realdata/prediction/etp_mdm/revenue_prediction/details2/ranking/offertimes20
